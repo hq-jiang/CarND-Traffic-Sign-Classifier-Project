@@ -1,4 +1,4 @@
-name: CarND-Traffic-Sign-Classifier-Project
+name: tensorGPU
 dependencies:
 - pip >= 9
 - jupyter
